@@ -1,0 +1,21 @@
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\League of Lengends Ping Checker.exe.config
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\League of Lengends Ping Checker.exe
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\League of Lengends Ping Checker.pdb
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\MaterialSkin.dll
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\MaterialSkin.pdb
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\League of Lengends Ping Checker.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\League_of_Lengends_Ping_Checker.Properties.Resources.resources
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\League of Lengends Ping Checker.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\League of Lengends Ping Checker.exe
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\League of Lengends Ping Checker.pdb
+C:\Users\Dom\Desktop\Debug\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\League_of_Lengends_Ping_Checker.mainForm.resources
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\MaterialSkin.dll
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\MaterialSkin.pdb
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\League_of_Lengends_Ping_Checker.mainForm.resources
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\League of Lengends Ping Checker.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\Ping Checker.exe.config
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\Ping_Checker.Properties.Resources.resources
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\Ping Checker.exe
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\bin\Debug\Ping Checker.pdb
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\Ping Checker.exe
+C:\Users\Dom\Desktop\Releases\C#\League of Lengends Ping Checker\League of Lengends Ping Checker\obj\Debug\Ping Checker.pdb
